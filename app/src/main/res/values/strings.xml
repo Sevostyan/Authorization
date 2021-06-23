@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Authorization</string>
+    <string name="condition">Укажите свой телефонный номер, чтобы сделать заказ</string>
+    <string name="authorization">Авторизация</string>
 </resources>
